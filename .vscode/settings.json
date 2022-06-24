@@ -1,0 +1,4 @@
+{
+  "markdown-pdf.outputDirectory": "./dist",
+  "markdown-pdf.convertOnSave": true
+}
