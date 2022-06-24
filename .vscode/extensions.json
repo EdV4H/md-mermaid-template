@@ -1,6 +1,7 @@
 {
   "recommendations": [
     "bierner.markdown-mermaid",
-    "yzane.markdown-pdf"
+    "yzane.markdown-pdf",
+    "DavidAnson.vscode-markdownlint"
   ]
 }

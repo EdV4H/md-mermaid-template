@@ -4,6 +4,7 @@
 
 - "yzane.markdown-pdf"
 - "bierner.markdown-mermaid"
+- "DavidAnson.vscode-markdownlint"
 
 ## mermaid example
 
@@ -23,5 +24,3 @@ B->>A: ログイン確認 (Token: json)
 A-->>B: ユーザーデータ
 B-->>C: HTTPレスポンス
 ```
-
-## settings
